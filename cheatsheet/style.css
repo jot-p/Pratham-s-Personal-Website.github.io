@@ -79,7 +79,7 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('cheatsheet/bg.png');
+    background-image: url('bg.png');
     background-size: 300px 100p;
     background-position: center;
 }
